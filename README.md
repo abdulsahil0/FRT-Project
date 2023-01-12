@@ -79,7 +79,7 @@ This is a web based application developed for agriculture related based website 
 
 
 
-### Out News -
+### Our News -
 
 
 ![Screenshot (314)](https://user-images.githubusercontent.com/121281597/212077920-a4136433-4477-4db2-8e42-44beae974b06.png)
