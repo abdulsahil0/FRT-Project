@@ -8,7 +8,7 @@ This is a web based application developed for agriculture related based website 
 
 *Project Link* -  https://kind-island-071d64d00.2.azurestaticapps.net
 
-*Project Demo Video link* -
+*Project Demo Video link* - https://youtu.be/h-fJJhQH3W4
 
 
 
