@@ -6,7 +6,7 @@ This is a web based application developed for agriculture related based website 
 ### This web based Agro Crop application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* -  
+*Project Link* -  https://kind-island-071d64d00.2.azurestaticapps.net
 
 *Project Demo Video link* -
 
